@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81867038036",
+    "project_id": "todolist-firebase-5773e",
+    "storage_bucket": "todolist-firebase-5773e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81867038036:android:18892e48d9f88fe9697cc1",
+        "android_client_info": {
+          "package_name": "com.example.flutter2_11_04_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC889tihvzIhozN6OXD9wjCsQZ6qolRn3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
